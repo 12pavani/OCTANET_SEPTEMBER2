@@ -11,9 +11,3 @@ As you tick off completed tasks, experience the satisfying sense of accomplishme
 With responsive design, our to-do list adapts seamlessly to all your devices, whether you're on your desktop, tablet, or smartphone. Stay connected and organized wherever you go.
 
 Transform your daily routine into a well-choreographed symphony of productivity. Get started today with our attractive and feature-rich to-do list application, and witness the power of organization at your fingertips."
-
-
-
-
-
-Regenerate
